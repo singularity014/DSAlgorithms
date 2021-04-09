@@ -3,6 +3,7 @@ author: Praful
 code: Binary Search
 """
 
+
 def binary_search(item, sorted_list):
     """
     given an item to find and a sorted list,
