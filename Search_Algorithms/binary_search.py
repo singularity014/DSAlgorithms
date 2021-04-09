@@ -1,6 +1,6 @@
 """
 author: Praful
-code: Binary Sear
+code: Binary Search
 """
 
 def binary_search(item, sorted_list):
@@ -28,10 +28,9 @@ def binary_search(item, sorted_list):
     return None
 
 
-
 if __name__ == "__main__":
 
-    search_item = 7
+    search_item = 1
     search_in_list = [1, 3, 5, 7, 9, 10]
     res = binary_search(search_item, search_in_list)
     print(res)
