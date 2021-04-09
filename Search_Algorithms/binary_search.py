@@ -24,9 +24,9 @@ def binary_search(item, sorted_list):
         if guess_number == item:
             return mid
         if guess_number > item:
-            high = mid - 1
+            high = mid 
         else:
-            low = mid + 1
+            low = mid 
     return None
 
 
