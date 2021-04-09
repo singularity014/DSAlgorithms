@@ -5,6 +5,7 @@ code: Binary Search
 
 
 def binary_search(item, sorted_list):
+    
     """
     given an item to find and a sorted list,
     search the item in the list and
